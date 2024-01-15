@@ -1,4 +1,6 @@
+<!--
 ### Hi all 👋
+-->
 
 <!--
 Here are some ideas to get you started:
@@ -19,7 +21,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/timnavigate)
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/timnavigate)
 <br/>
-
-<!--  Read my blog at [timnavigate.com](https://www.timnavigate.com/blog)  -->
-<!--  Subscribe to [my channel](https://t.me/timnavigate) in Telegram  -->
-<!--  [Subscribe](https://www.youtube.com/c/timnavigate?sub_confirmation=1) to my YouTube channel  -->
