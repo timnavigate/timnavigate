@@ -1,6 +1,5 @@
 <!--
-### Hi all 👋
--->
+### Hi all 👋  -->
 
 <!--
 Here are some ideas to get you started:
@@ -12,10 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
 
-[![timnavigate profile views](https://u8views.com/api/v1/github/profiles/14907341/views/day-week-month-total-count.svg)](https://u8views.com/github/timnavigate)
+<!--
+[![timnavigate profile views](https://u8views.com/api/v1/github/profiles/14907341/views/day-week-month-total-count.svg)](https://u8views.com/github/timnavigate)  -->
 
 ##### contacts:
 
