@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![timnavigate profile views](https://u8views.com/api/v1/github/profiles/14907341/views/day-week-month-total-count.svg)](https://u8views.com/github/timnavigate)
+
 ##### contacts:
 
 [<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:timnavigate@gmail.com)
